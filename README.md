@@ -1,2 +1,0 @@
-# Omega-ReactNative
-mobil version
